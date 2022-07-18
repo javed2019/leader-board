@@ -288,9 +288,9 @@ a{
 
     .course-info{
         display: grid;
-        grid-template-columns: 3fr 1fr 1fr;
+        grid-template-columns: 7fr 1fr 2fr;
         width: 80%;
-        font-size: 1.5em;
+        font-size: 1em;
         }
 
     .course img{
