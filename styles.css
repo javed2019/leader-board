@@ -161,7 +161,7 @@ a{
 
 .course-info{
     display: grid;
-    grid-template-columns: 3fr 1fr 1fr;
+    grid-template-columns: 7fr 1fr 2fr;
     justify-content:space-around; 
     align-items:center;
     font-size: 2em;
@@ -288,7 +288,7 @@ a{
 
     .course-info{
         display: grid;
-        grid-template-columns: 7fr 1fr 2fr;
+        grid-template-columns: 3fr 1fr 1fr;
         width: 80%;
         font-size: 1em;
         }
